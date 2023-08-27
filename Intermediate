@@ -1,0 +1,127 @@
+Why is Linux regarded as a more secure operating system than other operating systems?
+
+
+Explain the features of the Linux system?
+
+
+What is GUI?
+
+
+Write a command that will display all .txt files, including its individual permission.
+
+
+How can you append one file to another in Linux?
+
+
+There are 3 kinds of permission in Linux:Explain what they do.
+
+
+The sudo configuration file?
+
+
+What are the process states in Linux?
+
+
+Which is the first process started byt he Kernel and what is its process ID?
+
+
+What is a Zombie Process?
+
+
+What does the Grep command stand for?
+
+
+Explain the redirection operator.
+
+
+Why is the tar command used?
+
+
+What is the name and path of the main system log?
+
+
+What is load average in Linux?
+
+
+Where are the sar log stored?
+
+
+What information does the 'resolv.conf' file contain?
+
+
+Name default ports used for DNS, SSH, DHCP, and HTTP.
+
+
+What is SSH?
+
+
+How can you login to another system in your network from your system?
+
+
+Name three standard streams in Linux?
+
+
+How to copy a file in Linux?
+
+
+Explain what an inode means?
+
+
+What command(s) can be used to rename a file in Linux?
+
+
+How to see the mounted and unmounted partitions?
+
+
+How to view only the mounted partitions?
+
+
+When using the “df” command, what does the output mean?
+
+
+Which commands/options would you use to find out which directories are taking up the most disk space in human readable format?
+
+
+What is the significance of the -w option with the mount command?
+
+
+Which command lets you view your IP address?
+
+
+What command is the best way to test connectivity between two nodes
+
+
+What command can be used to change the system hostaname?
+
+
+How to find where a file is stored in Linux?
+
+
+How do you look at the contents of a file named sample.z?
+
+
+How do you sort the entries in a text file in ascending order?
+
+
+How do you check if a particular service in running?
+
+
+How do you start and stop a service?
+
+
+What is YUM?
+
+
+What command allows you to add a new user?
+
+
+What command is used to show who is logged on in the system and what process they are currently running??
+
+
+This command  allows you to create or change the password for a particular user.
+
+
+How many run levels does thee standard LINUX kernel support and what are they?s 
+
+
+Compare Linux with Windows?

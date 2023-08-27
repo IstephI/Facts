@@ -1,0 +1,119 @@
+Why we use LINUX? 
+
+
+Explain Linux Boot Sequence.
+
+
+How to lock a user account in Linux?
+
+
+Describe how a parent and child process communicates with each other?
+
+
+What is Zombie Process?
+
+
+How to Check Linux System Information?
+
+
+Explain Process Management System Calls in Linux
+
+
+Which character should be appended to a command to run the process in the background?
+
+
+What is the advantage of executing the running processes in the background? How can you do that?
+
+
+How can multiple machines share a single internet connection in Linux?
+
+
+If a volume group already exists and we need to extend the volume group to some extent. How will you achieve this?
+
+
+Mention some of the networking commands in Linux.
+
+
+Explain how you would troubleshoot a network issue in Linux.
+
+
+What is the significance of different runlevels in Linux? 
+
+
+What steps would you take to optimize the performance of a Linux server? 
+
+
+Enlist some Linux distributors (Distros) along with its usage?
+
+
+What is the maximum length for any file name under LINUX?
+
+
+How permissions are granted under LINUX?
+
+
+What is the role of case sensitivity in affecting the way commands are used?
+
+
+Explain Linux Shell?
+
+
+What is a Shell script?
+
+
+Explain command grouping in Linux?
+
+
+Enlist some Linux networking and troubleshooting commands?
+
+
+Where is the target path of a symlink stored? How are permission settings for symlinks handled?
+
+
+What is the configuration file for SSH server?
+
+
+How do you change the port number of SSH?
+
+
+How to enable key based authentication?
+
+
+What is the difference between SSH and Telnet?
+
+
+How to restart SSH daemon?
+
+
+How to check the SSH daemon’s status?
+
+
+How to create a banner to display texts when logging into the server via SSH?
+
+
+As a security implementation, you need to disable root Login on SSH Server, in Linux. What would you suggest?
+
+
+Is it possible to login to SSH server without password? How
+
+
+How many protocols does SSH have? if more than one, which one do we use and why?
+
+
+Where can we access failed login attempts?
+
+
+Is it possible to pass input to SSH from a local file? If Yes! How?
+
+
+Describe a service that you might disable on a LINUX server.
+
+
+Where are SAR logs stored?
+
+
+How is the umask command used in a LINUX system?
+
+
+
+
